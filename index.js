@@ -24,7 +24,13 @@ let func = (someText )=>{
 }
 
 
+const cal = ()=>{
+    return 'Good Morning';
+}
 
+
+
+console.log(cal());
 
 
 let a = "Some text written here."
