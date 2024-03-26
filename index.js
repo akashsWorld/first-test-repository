@@ -29,9 +29,3 @@ const cal = ()=>{
 }
 
 
-
-console.log(cal());
-
-
-let a = "Some text written here."
-
